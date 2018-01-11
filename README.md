@@ -1,5 +1,5 @@
 # SoundViz
-Loads a wave file and visualizes it as the loudness using different color schemes.
+Loads a wave file and visualizes its volume using different color schemes.
 
 'Usage: soundViz.py [filename][Number of Samples] [Linewidth] [Colorscheme]'
 
